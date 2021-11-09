@@ -1,0 +1,1 @@
+int Func_MOD1(HINSTANCE hInst, HWND hWnd, WCHAR* textBuf);

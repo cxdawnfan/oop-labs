@@ -1,0 +1,1 @@
+int Func_MOD3(HINSTANCE hInst, HWND hWnd);
