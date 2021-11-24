@@ -1,0 +1,4 @@
+C:\User\Burton\Lab2\x64\Debug\Lab2.exe
+C:\Users\cxdaw\Desktop\OOP-Labs\lab2\x64\Debug\Lab2.exe
+C:\Users\cxdaw\Desktop\lab2\x64\Debug\Lab2.exe
+C:\Users\cxdaw\Desktop\ip-07 Xi lab2\x64\Debug\Lab2.exe
