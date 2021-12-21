@@ -1,0 +1,24 @@
+﻿  Lab5.cpp
+C:\Users\cxdaw\Desktop\Lab5\resource2.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  my_editor.cpp
+  my_table.cpp
+C:\Users\cxdaw\Desktop\Lab5\resource2.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\cxdaw\Desktop\Lab5\my_table.cpp(32,37): warning C4244: “=”: 从“LRESULT”转换到“int”，可能丢失数据
+C:\Users\cxdaw\Desktop\Lab5\my_table.cpp(36,37): warning C4244: “=”: 从“LRESULT”转换到“int”，可能丢失数据
+C:\Users\cxdaw\Desktop\Lab5\my_table.cpp(49,14): error C2664: “HWND CreateDialogParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)”: 无法将参数 4 从“BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)”转换为“DLGPROC”
+C:\Users\cxdaw\Desktop\Lab5\my_table.cpp(49,14): message : 在匹配目标类型的范围内没有具有该名称的函数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(4997,1): message : 参见“CreateDialogParamW”的声明
+  pch.cpp
+  shape.cpp
+C:\Users\cxdaw\Desktop\Lab5\shape.cpp(131,9): warning C4101: “hBrush”: 未引用的局部变量
+C:\Users\cxdaw\Desktop\Lab5\shape.cpp(131,17): warning C4101: “hBrushOld”: 未引用的局部变量
+  toolbar.cpp
+C:\Users\cxdaw\Desktop\Lab5\toolbar.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\cxdaw\Desktop\Lab5\toolbar.cpp(5,32): error C2664: “LPWSTR lstrcpyW(LPWSTR,LPCWSTR)”: 无法将参数 2 从“LPCSTR”转换为“LPCWSTR”
+C:\Users\cxdaw\Desktop\Lab5\toolbar.cpp(5,28): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(2835,1): message : 参见“lstrcpyW”的声明
+C:\Users\cxdaw\Desktop\Lab5\toolbar.cpp(145,31): error C2001: 常量中有换行符
+C:\Users\cxdaw\Desktop\Lab5\toolbar.cpp(146,13): error C2143: 语法错误: 缺少“)”(在“break”的前面)
+C:\Users\cxdaw\Desktop\Lab5\toolbar.cpp(146,13): error C2143: 语法错误: 缺少“;”(在“break”的前面)
+  正在生成代码...
+C:\Users\cxdaw\Desktop\Lab5\shape.cpp(18): warning C4172: 返回局部变量或临时变量的地址: arr
